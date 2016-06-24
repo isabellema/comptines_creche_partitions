@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+Paroles de comptines
+</title>
+<meta charset="UTF-8"> 
+<style>
+
+body{
+font-size: 10pt;
+}
+.two_columns{
+-webkit-column-count: 3;
+-webkit-column-gap: 20px; 
+-webkit-column-rule: 1px dotted black;
+-moz-column-count: 3;
+-moz-column-gap: 20px;  
+-moz-column-rule: 1px dotted black;
+column-count: 3;
+column-gap: 20px; 
+column-rule: 1px dotted black;
+}
+
+ul{
+-webkit-column-break-inside: avoid; /* Chrome, Safari */
+page-break-inside: avoid;           /* Theoretically FF 20+ */
+break-inside: avoid-column;         /* IE 11 */
+display:table;                      /* Actually FF 20+ */
+border-top: 1px dotted black;
+width: 100%;
+}
+
+ul,li{
+list-style-type:none;
+list-style-position:inside;
+margin: 0;
+padding: 0;
+}
+
+li{
+padding-bottom:30px;
+}
+
+.song_name{
+text-transform: uppercase;
+padding-top:5px;
+padding-bottom:10px;
+}
+
+.legend{
+font-style:italic;
+}
+</style>
+</head>
+<body>
+<div class="two_columns">
+<ul>
+<li>
+<div class="song_name">
+A la peche aux moules
+</div>
+<div class="song_words">
+À la pêche aux moules, moules, moules<br />
+Je n'veux plus y aller maman<br />
+Les gens de la ville, ville, ville<br />
+M'ont pris mon panier maman<br />
+Les gens de la ville, ville, ville<br />
+M'ont pris mon panier maman
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Ah ! les crocodiles
+</div>
+<span class="legend">(version courte)</span>
+<div class="song_words">
+Un crocodile s'en allant à la guerre<br />
+Disait au revoir à ses petits enfants<br />
+Trainant sa queue, sa queue dans la poussière<br />
+Il s'en allait combattre les éléphants<br />
+<br />
+Ah ! Les crocrocro, les crocrocro, les crocodiles<br />
+Sur les bords du Nil, ils sont partis n'en parlons plus<br />
+Ah ! Les crocrocro, les crocrocro, les crocodiles<br />
+Sur les bords du Nil, ils sont partis n'en parlons plus<br />
+<br />
+Turlututu<br />
+Chapeau Pointu
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Ah ! vous dirai-je, maman
+</div>
+<div class="song_words">
+Ah ! vous dirai-je, maman<br />
+Ce qui cause mon tourment<br />
+Papa veut que je raisonne<br />
+Comme une grande personne<br />
+Moi, je dis que les bonbons<br />
+Valent mieux que la raison
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+    Ainsi font, font, font
+</div>
+<div class="song_words">
+Ainsi font, font, font<br />
+Les petites marionnettes<br />
+Ainsi font, font, font<br />
+Trois p'tits tours et puis s'en vont<br />
+<br />
+Puis elles danseront<br />
+Les petites marionnettes<br />
+Puis elles danseront<br />
+Quant les enfants dormiront
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Au clair de la lune
+</div>
+<span class="legend">(version courte)</span>
+<div class="song_words">
+Au clair de la lune<br />
+Mon ami Pierrot<br />
+Prête-moi ta plume<br />
+Pour écrire un mot<br />
+Ma chandelle est morte<br />
+Je n'ai plus de feu<br />
+Ouvre-moi ta porte<br />
+Pour l'amour de Dieu
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Au feu, les pompiers
+</div>
+<div class="song_words">
+Au feu, les pompiers<br />
+V'là la maison qui brûle<br />
+Au feu, les pompiers<br />
+V'là la maison brûlée<br />
+<br />
+C'est pas moi qui l'ai brûlée<br />
+C'est la cantinière<br />
+C'est pas moi qui l'ai brûlée<br />
+C'est le cantinier
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Bateau sur l'eau
+</div>
+<div class="song_words">
+Bateau, sur l'eau<br />
+La rivière, la rivière<br />
+Bateau, sur l'eau<br />
+La rivière au bord de l'eau<br />
+Le bateau a chaviré<br />
+Tous les enfants sont tombés dans l'eau
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+C'est Gugusse avec son violon
+</div>
+<div class="song_words">
+C'est Gugusse avec son violon<br />
+Qui fait danser les filles<br />
+Qui fait danser les filles<br />
+C'est Gugusse avec son violon<br />
+Qui fait danser les filles et les garçons<br />
+<br />
+Mon papa ne veut pas<br />
+Que je danse, que je danse<br />
+Mon papa ne veut pas<br />
+Que je danse la polka<br />
+<br />
+Il dira ce qu'il voudra<br />
+Moi je danse, moi je danse<br />
+Il dira ce qu'il voudra<br />
+Moi je danse la polka
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Dans la foret lointaine
+</div>
+<div class="song_words">
+On entend le coucou<br />
+Du haut de son grand chêne<br />
+Il répond au hibou<br />
+Coucou, coucou<br />
+Coucou, hibou, coucou
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Dansons la capucine
+</div>
+<div class="song_words">
+Dansons la capucine<br />
+Y'a pas de pain chez nous<br />
+Y'en a chez la voisine<br />
+Mais ce n'est pas pour nous<br />
+You<br />
+<br />
+Dansons la capucine<br />
+Y'a pas de vin chez nous<br />
+Y'en a chez la voisine<br />
+Mais ce n'est pas pour nous<br />
+You<br />
+<br />
+Dansons la capucine<br />
+Y'a pas de feu chez nous<br />
+Y'en a chez la voisine<br />
+Mais ce n'est pas pour nous<br />
+You !<br />
+<br />
+Dansons la capucine<br />
+Y'a du plaisir chez nous<br />
+On pleure chez la voisine<br />
+On rit toujours chez nous<br />
+You !
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Do, do, l'enfant do
+</div>
+<div class="song_words">
+Do, do, l'enfant do<br />
+L'enfant dormira bien vite<br />
+Do, do, l'enfant do<br />
+L'enfant dormira bientôt
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Fais dodo Colas mon p'tit frere
+</div>
+<div class="song_words">
+Fais dodo<br />
+Colas mon p'tit frère<br />
+Fais dodo<br />
+t'auras du lolo<br />
+<br />
+Maman est en haut<br />
+Qui fait du gâteau<br />
+Papa est en bas<br />
+Qui fait du chocolat
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+    Frere Jacques
+</div>
+<div class="song_words">
+Frère Jacques, frère Jacques<br />
+Dormez vous, dormez vous<br />
+Sonnez les matines, sonnez les matines<br />
+Ding ding dong, ding ding dong
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Il court, il court, le furet
+</div>
+<div class="song_words">
+Il court, il court, le furet<br />
+Le furet du bois, Mesdames<br />
+Il court, il court, le furet<br />
+Le furet du bois joli<br />
+<br />
+Il est passé par ici<br />
+Il est passé par ici<br />
+Il repassera par là<br />
+Il repassera par là
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Il etait un petit homme (Pirouette Cacahuete)
+</div>
+<div class="song_words">
+Il était un petit homme<br />
+Pirouette cacahuète<br />
+Il était un petit homme<br />
+Qui avait une drôle de maison<br />
+Qui avait une drôle de maison<br />
+<br />
+Sa maison est en carton<br />
+Pirouette cacahuète<br />
+Sa maison est en carton<br />
+Les escaliers sont en papier<br />
+Les escaliers sont en papier<br />
+<br />
+Le facteur y est monté<br />
+Pirouette cacahuète<br />
+Le facteur y est monté<br />
+Il s'est cassé le bout du nez<br />
+Il s'est cassé le bout du nez<br />
+<br />
+On lui a raccommodé<br />
+Pirouette cacahuète<br />
+On lui a raccommodé<br />
+Avec du joli fil doré<br />
+Avec du joli fil doré<br />
+<br />
+Mon histoire est terminée<br />
+Pirouette cacahuète<br />
+Mon histoire est terminée<br />
+Messieurs, mesdames applaudissez<br />
+Messieurs, mesdames applaudissez
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+La famille tortue
+</div>
+<div class="song_words">
+Jamais on n'a vu<br />
+Jamais on ne verra<br />
+La famille Tortue<br />
+Courir après les rats<br />
+<br />
+Le papa Tortue<br />
+Et la maman Tortue<br />
+Et les enfants Tortue<br />
+Iront toujours au pas
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+L'araignée gypsie
+</div>
+<div class="song_words">
+L'araignée Gypsie<br />
+Monte à la gouttière<br />
+Tiens, voilà la pluie<br />
+Gypsie tombe par terre<br />
+Mais le soleil<br />
+A chassé la pluie
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+La fourmi m'a piqué la main
+</div>
+<div class="song_words">
+La fourmi m'a piqué la main<br />
+La coquine, la coquine<br />
+La fourmi m'a piqué la main<br />
+La coquine, elle avait faim<br />
+<br />
+L'araignée m'a piqué le nez<br />
+La coquine, la coquine<br />
+L'araignée m'a piqué le nez<br />
+La coquine, elle était fâchée<br />
+<br />
+Et l'abeille m'a piqué l'oreille<br />
+La coquine, la coquine<br />
+Et l'abeille m'a piqué l'oreille<br />
+La coquine n'avait pas sommeil<br />
+<br />
+Le bourdon m'a piqué le menton<br />
+Le coquin, le coquin<br />
+Le bourdon m'a piqué le menton<br />
+Le coquin voulait un bonbon<br />
+<br />
+Et l'oiseau m'a piqué le dos<br />
+Le coquin, le coquin<br />
+Et l'oiseau m'a piqué le dos<br />
+Le coquin était un moineau
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Le grand cerf
+</div>
+<div class="song_words">
+Dans sa maison un grand cerf<br />
+Regardait par la fenêtre<br />
+Un lapin venir à lui<br />
+Et frapper ainsi.<br />
+Cerf, cerf, ouvre-moi !<br />
+Ou le chasseur me tuera.<br />
+Lapin, lapin, entre et viens<br />
+Me serrer la main.
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Les petits poissons
+</div>
+<div class="song_words">
+Les petits poissons dans l'eau<br />
+nagent nagent nagent nagent nagent<br />
+Les petits poissons dans l'eau<br />
+nagent aussi bien que les gros<br />
+<br />
+Les petits les gros<br />
+nagent comme il faut<br />
+Les gros les petits<br />
+nagent bien aussi<br />
+<br />
+Les petits poissons dans l'eau<br />
+nagent nagent nagent nagent nagent<br />
+Les petits poissons dans l'eau<br />
+nagent aussi bien que les gros
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Le Rock and Roll des gallinacés
+</div>
+<div class="song_words">
+Dans ma basse-cour, il y a<br />
+Des poules, des dindons, des oies<br />
+Il y a même des canards<br />
+Qui barbotent dans la mare<br />
+<br />
+Cot cot cot cot codet<br />
+Cot cot cot cot codet<br />
+Cot cot cot cot codet, c'est le<br />
+Rock and roll des gallinacés
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Meunier, tu dors
+</div>
+<div class="song_words">
+Meunier tu dors<br />
+Ton moulin va trop vite<br />
+Meunier tu dors<br />
+Ton moulin va trop fort<br />
+<br />
+Ton moulin, ton moulin va trop vite<br />
+Ton moulin, ton moulin va trop fort<br />
+Ton moulin, ton moulin va trop vite<br />
+Ton moulin, ton moulin va trop fort
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Passe, passera
+</div>
+<div class="song_words">
+Passe, passe, passera<br />
+La dernière, la dernière<br />
+Passe, passe, passera<br />
+La dernière restera<br />
+<br />
+Qu'est-ce qu'elle a donc fait<br />
+La p'tite hirondelle<br />
+Elle nous a volé<br />
+Trois p'tits grains de blé<br />
+<br />
+Nous l'attraperons<br />
+La p'tite hirondelle<br />
+Nous lui donnerons<br />
+Trois p'tits coups d'bâton<br />
+<br />
+Passe, passe, passera<br />
+La dernière, la dernière<br />
+Passe, passe, passera<br />
+La dernière restera
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Petit escargot
+</div>
+<div class="song_words">
+Petit escargot<br />
+Porte sur son dos<br />
+Sa maisonnette<br />
+Aussitôt qu'il pleut<br />
+Il est tout heureux<br />
+Il sort sa tête<br />
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Pomme de reinette et pomme d'api
+</div>
+<div class="song_words">
+Pomme de reinette et pomme d'api<br />
+Tapis tapis rouge<br />
+Pomme de reinette et pomme d'api<br />
+Tapis tapis gris<br />
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Quand trois poules vont au champ
+</div>
+<div class="song_words">
+Quand trois poules s'en vont aux champs<br />
+La première va devant<br />
+La deuxième suit la première<br />
+La troisième vient la dernière<br />
+Quand trois poules s'en vont aux champs<br />
+La première va devant
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Savez-vous planter les choux ?
+</div>
+<div class="song_words">
+Savez-vous planter les choux<br />
+À la mode, à la mode<br />
+Savez-vous planter les choux<br />
+À la mode de chez nous<br />
+<br />
+On les plante avec les(/le) pieds(/mains/coude/nez)<br />
+À la mode, à la mode<br />
+On les plante avec les(/le) pieds(/mains/coude/nez)<br />
+À la mode de chez nous<br />
+<br />
+Savez-vous planter les choux<br />
+À la mode, à la mode<br />
+Savez-vous planter les choux<br />
+À la mode de chez nous
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Sur le pont d'Avignon
+</div>
+<div class="song_words">
+Sur le pont d'Avignon<br />
+On y danse, on y danse<br />
+Sur le pont d'Avignon<br />
+On y danse, tous en rond<br />
+<br />
+Les beaux messieurs font comme ça<br />
+Et puis encore comme ça<br />
+<br />
+Sur le pont d'Avignon<br />
+On y danse, on y danse<br />
+Sur le pont d'Avignon<br />
+On y danse, tous en rond<br />
+<br />
+Les belles dames font comme ça<br />
+Et puis encore comme ça<br />
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Tourne, tourne, petit moulin
+</div>
+<div class="song_words">
+Tourne, tourne, petit moulin<br />
+Frappent, frappent, petites mains<br />
+Vole, vole, petit oiseau<br />
+Nage, nage, poisson dans l'eau<br />
+<br />
+Petit moulin a bien tourné<br />
+Petites mains ont bien frappé<br />
+Petit oiseau a bien volé<br />
+Petit poisson a bien nagé
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Une araignée sur le plancher
+</div>
+<div class="song_words">
+Sur le plancher, une araignée<br /> 
+Se tricotait des bottes<br />
+<br />
+Dans un flacon, un limaçon<br />
+Enfilait sa culotte<br />
+<br />
+J'ai vu dans le ciel<br />
+Une mouche à miel<br />
+Pincer sa guitare<br />
+<br />
+Un rat tout confus<br />
+Sonner l'angélus<br />
+Au son d'la fanfare
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Un jour dans sa cabane
+</div>
+<div class="song_words">
+Un jour dans sa cabane<br />
+Un tout petit, petit bonhomme<br />
+Jouait de la guitare<br />
+Olé oh banjo oh oh<br />
+Ça faisait<br />
+<br />
+Zoum ba la zoum ba la zoum bam bam (x3)<br />
+Olé olé oh banjo oh oh<br />
+<br />
+Un jour dans sa cabane<br />
+Un tout petit, petit bonhomme<br />
+Jouait des maracas(/du tambourin)<br />
+Olé olé oh banjo oh oh<br />
+Ça faisait<br />
+<br />
+Zoum ba la zoum ba la zoum bam bam (x3)<br />
+Olé olé oh banjo oh oh<br />
+<br />
+Un jour dans sa cabane<br />
+Un tout petit, petit bonhomme<br />
+Dormait sur sa paillasse<br />
+Olé olé oh banjo oh oh<br />
+<br />
+Ça faisait<br />
+<br />
+Zoum ba la zoum ba la zoum bam bam (x3)<br />
+Olé olé oh banjo oh oh<br />
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Un petit cochon
+</div>
+<div class="song_words">
+Un petit cochon<br />
+Pendu au plafond<br />
+Tirez-lui le nez<br />
+Il donn'ra du lait<br />
+Tirez-lui la queue<br />
+Il pondra des œufs<br />
+Tirez-la plus fort<br />
+Il pondra de l'or<br />
+Combien en voulez-vous ?<br />
+1, 2, 3
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Un, deux, trois, nous irons au bois
+</div>
+<div class="song_words">
+1, 2, 3, nous irons aux bois<br />
+4, 5, 6, cueillir des cerises<br />
+7, 8, 9, dans mon panier neuf<br />
+10, 11, 12, elles seront toutes rouges
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Une poule sur un mur
+</div>
+<div class="song_words">
+Une poule sur un mur<br />
+Qui picore du pain dur<br />
+Picoti, picota<br />
+Lève la queue et puis s'en va<br />
+</div>
+</li>
+</ul>
+<ul>
+<li>
+<div class="song_name">
+Une souris verte
+</div>
+<div class="song_words">
+Une souris verte<br />
+Qui courait dans l'herbe<br />
+Je l'attrape par la queue<br />
+Je la montre à ces messieurs<br />
+<br />
+Ces messieurs me disent<br />
+Trempez-la dans l'huile<br />
+Trempez-la dans l'eau<br />
+Ça fera un escargot<br />
+Tout chaud<br />
+<br />
+Je la mets dans un tiroir<br />
+Elle me dit qu'il fait trop noir<br />
+Je la mets dans mon chapeau<br />
+Elle me dit qu'il fait trop chaud Je la mets dans ma culotte<br />
+Elle me fait trois petites crottes
+</div>
+</li>
+</ul>
+</div>
+</body>
+</html>
